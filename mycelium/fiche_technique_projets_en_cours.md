@@ -80,6 +80,7 @@ Dans le studio, il se trouvait un vélo stationnaire, une échelle plaçée en h
 
 
 ### Expérience et justifications :
+Honnêtement, je me suis pas vraiment senti connecté au projet. C,est en parti parce que je n'ai pas eu la chance de l'essayer. Au studio, le projet n'était pas complet et ne fonctionnait pas totalement. Sûrement que mon avis changera si je l'essaie à l'exposition finale. 
 
 ## Zodie-Gal
 
@@ -116,7 +117,7 @@ Maria Laura Coronel
 ### Lien avec le thème du projet mycélium :
 
 ### L'installation en cours dans les studios
-
+Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleurs sont plaçés aux coins du studio. Ils sont connectés par des ordinateurs. Un podium avec une tablette se situait au centre du studio et permettait aux visiteurs de participer à l'expérience. 
 ### Schéma :
 
 ### 3 cours indispensables à la création du projet :
@@ -125,6 +126,9 @@ Maria Laura Coronel
 - Traitement vidéo
 - 
 ### Technique ou composante dans le projet :
+
+### Expérience et justifications :
+Mon expérience avec cet oeuvre a vraiment été positive. Je pense que c'est l'oeuvre la plus immersive que j'ai expérimenté dans les cinq projets mycélium. En cliquant sur les différentes images sur la tablette, des informations sur l'animal marin que j'ai cliqué apparaissaient. J'ai vraiment apprécié ce côté éducatif que ce projet propose. Mais ce qui m'a le plus marqué et immersé dans cet oeuvre sont les effets sonores difféerentes qui jouaient à chaque fois que j'appuyais sur une image. Le son d'ambiance en fond plus particulièrement m'a marqué. Bref c'est une exposition très intérative pour les visiteurs.
 
 ### Ordre de préférences des projets (avant) :
 1- Edria
@@ -138,5 +142,3 @@ Maria Laura Coronel
 3- Nexum
 4- Luma Sol
 5-Zodie-Gal
-
-### Expérience et justifications :
