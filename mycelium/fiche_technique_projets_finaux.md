@@ -46,5 +46,11 @@ Interactive
  
  ## Ce qui m'a pas plus :
  
+ ## Ordre de préférences des projets (après) :
+1- Edria
+2- Echomarine
+3- Nexum
+4- Luma Sol
+5-Zodie-Gal
  
  
