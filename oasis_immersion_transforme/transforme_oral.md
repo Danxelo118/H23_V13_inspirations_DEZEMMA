@@ -1,44 +1,39 @@
-# Projet mycélium final
+# Exposé oral 
 
 ## Nom de l'exposition ou de l'événement :
-Mycélium 
+Transformé 
 
 ## Lieu de mise en exposition :
-Collège Montmorency
+Oasis immersion
 
 ## Date de la visite :
-Vendredi 17 mars 2023
+Samedi 4 mars 2023
 
 ## Titre de l'oeuvre ou du dispositif :
-Edria
+Galerie Portail
 
 ## Noms des créateurs de l'oeuvre :
 
 
 ## Année de réalisation :
+2022/2023
 
 ## Description de l'oeuvre :
 
 ## Type d'installation : 
-Interactive
+Comtemplative
 
 ## Mise en espace :
 
 
 ## Composantes techniques :
-- Des fils et câbles
-- Des poteaux de métals
 - Des lumières DEL
 - Des projecteurs de lumières
 - Des haut-parleurs 
-- Des caméras de surveillance
-- Des décorations
-- Des capteurs de mouvements 
-- Un ordinateur
-- Des logiciel (Madmapping)
+- Des caméras de surveillance 
 
 ## Éléments pour la mise en place :
-- Des bancs
+- Des bancs ou chaise
  
  ## Expérience vécue :
  
