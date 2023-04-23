@@ -21,10 +21,10 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 
 
 ### Technique ou composante dans le projet :
-
-### Ordre de préférences des projets :
+L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de projeter des vidéos sur des objets ou bâtiments qui résumer à du vidéo mapping. 
 
 ### Expérience et justifications :
+
 
 ## Nexum 
 ### Projet réalisé par :
@@ -43,7 +43,6 @@ Maxime Des Lauriers
 
 ### Technique ou composante dans le projet :
 
-### Ordre de préférences des projets :
 
 ### Expérience et justifications :
 
@@ -63,7 +62,6 @@ Pénélope Morrisson
 - Objets intéractifs
 ### Technique ou composante dans le projet :
 
-### Ordre de préférences des projets :
 
 ### Expérience et justifications :
 
@@ -75,12 +73,11 @@ Abdanor Yara
 ### Schéma :
 
 ### 3 cours indispensables à la création du projet :
-- Préparation au milieu de travail
-- Conception d'une expérience multimédia
+- Programmation web
+- Animation 2D
 - Installation multimédia
 ### Technique ou composante dans le projet :
 
-### Ordre de préférences des projets :
 
 ### Expérience et justifications :
 
@@ -95,11 +92,21 @@ Maria Laura Coronel
 ### Schéma :
 
 ### 3 cours indispensables à la création du projet :
-- Conception d'une expérience multimédia
-- Installation multimédia
-- Objets intéractifs
+- Conception sonore
+- Animation 2D
+- Traitement vidéo
 ### Technique ou composante dans le projet :
 
-### Ordre de préférences des projets :
-
+### Ordre de préférences des projets (avant) :
+1- Edria
+2- Luma Sol
+3- Echomarine
+4- Nexum
+5- Zodie-Gal
+### Ordre de préférences des projets (après) :
+1- Edria
+2- Echomarine
+3- Nexum
+4- Luma Sol
+5-Zodie-Gal
 ### Expérience et justifications :
