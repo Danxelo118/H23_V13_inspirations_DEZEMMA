@@ -1,45 +1,39 @@
-# Projet mycélium final
+# Exposition humain au centre des sciences
 
 ## Nom de l'exposition ou de l'événement :
-Mycélium 
+Humains
 
 ## Lieu de mise en exposition :
-Collège Montmorency
+Salle des Sciences
 
 ## Date de la visite :
-Vendredi 17 mars 2023
+Mercredi 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif :
-Edria
-
-## Noms des créateurs de l'oeuvre :
-
+je suis grand maintenant (soccer)
 
 ## Année de réalisation :
-
+2022/2023
 ## Description de l'oeuvre :
 
 ## Type d'installation : 
 Interactive
 
+## Fonction du dispositif :
+Ce dispositif a pour but d'éduquer les visiteurs sur l'évolution du temps de réactions chez l'humain
+
 ## Mise en espace :
-
-
-## Composantes techniques :
-- Des fils et câbles
-- Des poteaux de métals
-- Des lumières DEL
-- Des projecteurs de lumières
-- Des haut-parleurs 
-- Des caméras de surveillance
-- Des décorations
-- Des capteurs de mouvements 
-- Un ordinateur
-- Des logiciel (Madmapping)
+Le dispositif se situe dans un couloir qui mène aux autres expositions. 
 
 ## Éléments pour la mise en place :
-- Des bancs
- 
+- Aucune
+
+## Composantes techniques :
+- Un écran 
+- Une caméra
+- Des décorations
+- Des capteurs de mouvements 
+
  ## Expérience vécue :
  
  ## Ce qui m'a plus :
