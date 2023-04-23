@@ -11,7 +11,7 @@ Jean-Christophe Zephir
 ### Lien avec le thème du projet mycélium :
 Les plantes (végétation) sont reliées aux lumières et intéragissent ensemble pour le fonctionnement du projet.
 ### L'installation en cours dans les studios
-Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une au milieu. Des décorations de plantes se trouvaient dessus. Le poteau du milieu est l'élément principal puisqu'il permet de capter les mouvement en utilisant les capteurs TOF liés aux lumières et aux ordinateurs. Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est que lorsque quatre personnes se plaçaient en même temps à chaque coins du capteurs, toutes les lumières s'allumaient en même temps et un son en particulier jouait.
+Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une au milieu. Des décorations de plantes se trouvaient dessus. Le poteau du milieu est l'élément principal puisqu'il permet de capter les mouvement en utilisant les capteurs TOF liés aux lumières et aux ordinateurs. Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est que lorsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer.
 ### Schéma :
 
 ### 3 cours indispensables à la création du projet :
@@ -24,7 +24,7 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de projeter des vidéos sur des objets ou bâtiments qui résumer à du vidéo mapping. 
 
 ### Expérience et justifications :
-
+En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lumières qui apparaissaient. En intéragissant avec l'oeuvre, je me sentais part intégral du projet. Les décorations de plantes ajoutent un effet immersant à l'oeuvre. Le fait que l'oeuvre nécessite la présence du visiteur est pour moi un élément très intéressant car en tant que visiteur on se sent important car notre présence est vitale au fonctionnement du projet.
 
 ## Nexum 
 ### Projet réalisé par :
