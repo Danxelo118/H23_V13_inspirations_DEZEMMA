@@ -24,9 +24,6 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 - Objets intéractifs
 
 
-### Technique ou composante dans le projet :
-L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de projeter des vidéos sur des objets ou bâtiments qui résumer à du vidéo mapping. 
-
 ### Expérience et justifications :
 En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lumières qui apparaissaient. En intéragissant avec l'oeuvre, je me sentais part intégral du projet. Les décorations de plantes ajoutent un effet immersant à l'oeuvre.  Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est ce que lorsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer. Le fait que l'oeuvre nécessite la présence du visiteur est pour moi un élément très intéressant car en tant que visiteur on se sent important car notre présence est vitale au fonctionnement du projet. 
 
@@ -50,9 +47,6 @@ Dans le studio, il se trouvait des fils de lumières qui étaient posés sur des
 - Installation multimédia
 - Objets intéractifs
 
-### Technique ou composante dans le projet :
-Le logiciel procreate qui est logiciel de design et de dessin. L'équipe a utilisé ce logiciel pour leur dessin dans leur site. 
-
 ### Expérience et justifications :
 Pour intéragir avec l'oeuvre il faut suivre la lignée de lumière en marchant à côté ainsi donc le jeu de lumière commencera. La lumière suit la présence du visiteur et les lumières changent de couleur au fur et à mesure. Des sons différents aussi jouent au cours du chemin pour accompagner le visiteur. En intéragissant avec l'oeuvre, je me suis sentait marcher dans un autre monde, un monde lumineux qui me parle. Les projets intéractifs de se sorte m'aide vraiment à être immersé dans l'oeuvre.
 
@@ -75,8 +69,6 @@ Dans le studio, il se trouvait un vélo stationnaire, une échelle plaçée en h
 - Conception d'une expérience multimédia
 - Installation multimédia
 - Objets intéractifs
-- 
-### Technique ou composante dans le projet :
 
 
 ### Expérience et justifications :
@@ -99,9 +91,6 @@ Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site
 - Programmation web
 - Animation 2D
 - Installation multimédia
-- 
-### Technique ou composante dans le projet :
-La réalisation diu site web pour le fonctionnement du projet est vitale.
 
 ### Expérience et justifications :
 J'ai vraiment apprécié l'expérience en partipant à ce projet. Il m'a fallu plusieurs essais pour terminer tous les niveaux disponibles mais cela valait la peine. Les animations qui jouent à chaque passage de niveaux étaient vraiment intéressantes. Au secondaire, je joauait souvent à des jeux d'égnimes qui comportaient des éléments similaires au projet j'ai vraiment apprécier cet oeuvre bien qu'il n'y a pas de lien avec le thème mycélium.
@@ -124,11 +113,12 @@ Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleur
 - Conception sonore
 - Animation 2D
 - Traitement vidéo
-- 
-### Technique ou composante dans le projet :
 
 ### Expérience et justifications :
 Mon expérience avec cet oeuvre a vraiment été positive. Je pense que c'est l'oeuvre la plus immersive que j'ai expérimenté dans les cinq projets mycélium. En cliquant sur les différentes images sur la tablette, des informations sur l'animal marin que j'ai cliqué apparaissaient. J'ai vraiment apprécié ce côté éducatif que ce projet propose. Mais ce qui m'a le plus marqué et immersé dans cet oeuvre sont les effets sonores difféerentes qui jouaient à chaque fois que j'appuyais sur une image. Le son d'ambiance en fond plus particulièrement m'a marqué. Bref c'est une exposition très intérative pour les visiteurs.
+
+### Technique ou composante choisie :
+L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de projeter des vidéos sur des objets ou bâtiments qui résumer à du vidéo mapping. Je sens que c'est un logiciel qui me sera très utile à l'avenir. Donc j'ai hâte de l'apprendre dans les prochains cours du programme. 
 
 ### Ordre de préférences des projets (avant) :
 1- Edria
@@ -142,3 +132,6 @@ Mon expérience avec cet oeuvre a vraiment été positive. Je pense que c'est l'
 3- Nexum
 4- Luma Sol
 5-Zodie-Gal
+
+## Justifications :
+Edria restera pour moi le projet qui m'a le plus marqué et ce même après les deux visites. Le jeu de lumière et de sons m'a vraiment impressionner et m'a laissé ébloui. C'est un projet qui m'a inspiré et me donne vraiment envie de recréer une oeuvre similaire en fin d'année. Le projet Zodie-Gal m'a le moins marqué en raison surtout du manque de lien entre l'eouvre et la thématique. Le projet Echomarine est très proche d'être mon préféré mais si l'oeuvre serait à une plus grande échelle, cela aurait pris la première place.
