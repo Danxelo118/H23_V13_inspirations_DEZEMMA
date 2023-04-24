@@ -4,6 +4,6 @@ Ce dernier est un artiste né au Mexique et a gradué en chimie à l'Université
 
 J'ai bien aimé la conférence, la présentatrice a bien expliqué son sujet. On la sentait impliquée et passionnée dans son sujet qu'est le but de la compganie. Je sens bien qu'elle en a inspiré plus d'un lors de cette conférence. Et j'ai surtout aimé lorsqu'elle expliquait les vies que ces oeuvres ont touché les gens au Mexique.
 
-Source : Site web Studio Antimodular : https://antimodular.com/
+### Source : Site web Studio Antimodular : https://antimodular.com/
 La conférence de Karine Charbonneau
 Le documentaire sur Rafael Lozano-Hemmer
