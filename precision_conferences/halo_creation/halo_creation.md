@@ -4,4 +4,4 @@ Le but de la compagnie est de mettre l'art en valeur en utilisant la technologie
 J'ai vraiment apprécié la conférence qu'il a présenté. Yanik Daunais était passioné par son sujet et l'expliquait bien en détail sans le moindre soucis. Il a même donné quelques conseils à nbous étudiants et futures travailleurs en multimédia. D,ailleurs, le conseil que j'ai le plus retenu est celui où il dit que les gens qui visitent une exposition multimédia préfère participer et interagir avec l'oeuvre plutôt que de rester la comtempler. Alors je me penche plus vers des dispositifs multimédia intéeractifs pour mes futures projets grâce aux conseils de Yanik Daunais.  
 
 
-### Source : Site web Studio Antimodular : La conférence de Yanik Daunais
+### Source : La conférence de Yanik Daunais
