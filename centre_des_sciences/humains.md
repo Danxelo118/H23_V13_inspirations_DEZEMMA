@@ -10,23 +10,18 @@ Salle des Sciences
 Mercredi 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif :
-je suis grand maintenant (soccer)
+Pas facile de saisir la balle au bond
 
 ## Année de réalisation :
 2022/2023
 ## Description de l'oeuvre :
-
-## Type d'installation : 
-Interactive
+Le visiteur est supposé se placer devant l'oeuvre sur une place précisée au sol et suivre les instructions sur l'écran. Il doit essayer de placer sa main pour attraper la balle virtuelle qui est affichée à l'écran et ainsi le visiteur peut remarquer que les réflexes diminuent aau fur à mesure que l'âge avance.
 
 ## Fonction du dispositif :
 Ce dispositif a pour but d'éduquer les visiteurs sur l'évolution du temps de réactions chez l'humain
 
 ## Mise en espace :
 Le dispositif se situe dans un couloir qui mène aux autres expositions. 
-
-## Éléments pour la mise en place :
-- Aucune
 
 ## Composantes techniques :
 - Un écran 
@@ -35,7 +30,8 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
 - Des capteurs de mouvements 
 
  ## Expérience vécue :
- 
+ J'ai vraiment vécue une bonne expérience avec cette oeuvre. J'ai vraiment appris beaucoup de cette oeuvre. On remarque très bien que les réflexes diminuent au fur et à mesure. L'oeuvre réagit bien avec tes mouvements et je sentais les animations sur l'écran très fluide et suivait bien mon mouvement. 
  ## Ce qui m'a plus :
+ Ce que j'ai vraiment apprécié 
  
  ## Ce qui m'a pas plus :
