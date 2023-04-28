@@ -32,6 +32,9 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
  ## Expérience vécue :
  J'ai vraiment vécue une bonne expérience avec cette oeuvre. J'ai vraiment appris beaucoup de cette oeuvre. On remarque très bien que les réflexes diminuent au fur et à mesure. L'oeuvre réagit bien avec tes mouvements et je sentais les animations sur l'écran très fluide et suivait bien mon mouvement. 
  ## Ce qui m'a plus :
- Ce que j'ai vraiment apprécié 
+ J'ai vraiment apprécié l'aspect éducatif de l'oeuvre.  
  
  ## Ce qui m'a pas plus :
+
+## Références 
+https://www.centredessciencesdemontreal.com/exposition-permanente/humain 
