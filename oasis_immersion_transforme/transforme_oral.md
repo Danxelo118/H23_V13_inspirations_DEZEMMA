@@ -40,3 +40,7 @@ Comtemplative
  ## Ce qui m'a plus :
  
  ## Ce qui m'a pas plus :
+
+## Lien avec les autres oeuvres :
+
+## Ce que j'ai aimé le plus de toutes les oeuvres que j'ai apprécié :
