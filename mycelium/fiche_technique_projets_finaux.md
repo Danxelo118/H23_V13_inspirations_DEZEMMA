@@ -13,7 +13,7 @@ Vendredi 17 mars 2023
 Edria
 
 ## Noms des créateurs de l'oeuvre :
-
+Elwin Durand Loic Delorme Dominic Roberts Gabriel Leblanc Meryem Berbiche Jean-Christophe Zephir
 
 ## Année de réalisation :
 2022-2023
@@ -21,7 +21,7 @@ Edria
 
 
 ## Mise en espace :
-
+L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs où des gens peuvent s'asseoir.
 
 ## Composantes techniques :
 - Des fils et câbles
@@ -39,11 +39,11 @@ Edria
 - Des bancs
  
  ## Expérience vécue :
- 
+ C'était encore plus grandiose en vrai. Je suis allé la nuit et j'ai vraiment apprécié le décor comment il s'illumait la nuit. C'est vraiment  une oeuvre qui attire l'attention. Le projet marchait complèment donc je voyais toute l'ampleur du projet. C'était encore plus immersive qu'avant. Je me sentais vraiment parti d'un autre monde lumineux. Bref, j'ai vraiment vécu une expérience magistrale en vivant cette oeuvre.
  ## Ce qui m'a plus :
- 
+ Le jeu de lumière est vraiment un élément que j'ai vraiment bien apprécié. Je rtrouve que sans les lumières, leprojet ne fonctionnerait pas. Les lumières et la réactivité avec la détection de présence sont les éléments vitaux de cette présentation artistique. Ça m'a vraiment inspiré pour mes projets futures. 
  ## Ce qui m'a pas plus :
- 
+ J'aurais soughaité que les effets sonores soient plus forts pour rendre mon expérience encore plus immersive. 
  ## Ordre de préférences des projets (après) :
 1- Edria
 2- Echomarine
