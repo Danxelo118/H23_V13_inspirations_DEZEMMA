@@ -16,11 +16,9 @@ Edria
 
 
 ## Année de réalisation :
-
+2022-2023
 ## Description de l'oeuvre :
 
-## Type d'installation : 
-Interactive
 
 ## Mise en espace :
 
