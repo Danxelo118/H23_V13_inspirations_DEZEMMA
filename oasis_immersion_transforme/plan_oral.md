@@ -21,16 +21,16 @@ Présentation de l'oeuvre :
 - Description de l'oeuvre
 - Mise en espace
 - Composants et éléments
-- 
+
 ### Expérience vécue :
 - Expérience
-- 
+
 ### Appréciation critique et justifications :
 - J'ai bien aimé...
 - J'ai pas aimé...
-- 
+
 ### Liens avec autres oeuvres :
 - Lien avec oeuvre...
-- 
+
 ### Conclusion :
 - Remerciements
