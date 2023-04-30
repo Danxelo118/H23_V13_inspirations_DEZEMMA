@@ -22,7 +22,7 @@ Galerie Portail
 ## Description de l'oeuvre :
 On the morning you wake : Cet oeuvre est une sorte de documentaire immersif qui parle d'une attaque d'un missile nucléaire qui attaquerait Hawai dans 38 minutes et comment les citoyens agiraient à l'annonce de cette nouvelle. Leur réaction de peur et d'angoisse sont relatées dans ce documentaire. Les créateurs utilisent des faits réels et expériences personnelles pour immerser le visiteur dans cet oeuvre. On présente des personnages en 3D pour nous permettre de visualiser les explications de l'oeuvre.
 ## Type d'installation : 
-Comtemplative
+Contemplative
 
 ## Mise en espace :
 Des bancs sont placés au milieu d'une salle ainsi qu'une structure placée pour que les visiteurs puissent s'assoir. Des vidéos sont projetées partout sur les murs aux quatre coins. 
