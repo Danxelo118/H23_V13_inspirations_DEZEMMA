@@ -33,4 +33,5 @@ Présentation de l'oeuvre :
 - Lien avec oeuvre...
 
 ### Conclusion :
+- Appréciation de toutes les oeuvres
 - Remerciements
