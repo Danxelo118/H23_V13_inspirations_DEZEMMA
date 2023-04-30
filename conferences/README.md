@@ -1,1 +1,1 @@
-Ce dossier contiendra des informations sur les comptes rendus des conférences sur Halo-Créaation et Antimodular.
+Ce dossier contient des informations sur les comptes rendus des conférences sur Halo-Création et Antimodular dans le cadre du cours de documention d'une collection multimédia de la session d'hiver 2023.
