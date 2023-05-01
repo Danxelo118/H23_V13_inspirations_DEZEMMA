@@ -129,3 +129,7 @@ L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de p
 
 ## Justifications :
 Edria restera pour moi le projet qui m'a le plus marqué et ce même après les deux visites. Le jeu de lumière et de sons m'a vraiment impressionner et m'a laissé ébloui. C'est un projet qui m'a inspiré et me donne vraiment envie de recréer une oeuvre similaire en fin d'année. Le projet Zodie-Gal m'a le moins marqué en raison surtout du manque de lien entre l'eouvre et la thématique. Le projet Echomarine est très proche d'être mon préféré mais si l'oeuvre serait à une plus grande échelle, cela aurait pris la première place.
+
+## Sources et références :
+https://tim-montmorency.com/2023/
+
