@@ -36,5 +36,6 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
  
  ## Ce qui m'a pas plus :
 C'est vraiment juste un petit détail mais j'aurais voulu que l'écran soit plus grand pour que je puisse apercevoir mieux les informations lettrées et visuelles présentées. Mais sinon c'est le seul élément que j'ai peu apprécié.
+
 ## Sources et références 
 https://www.centredessciencesdemontreal.com/exposition-permanente/humain 
