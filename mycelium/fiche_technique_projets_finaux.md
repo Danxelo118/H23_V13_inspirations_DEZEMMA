@@ -2,6 +2,7 @@
 
 ## Nom de l'exposition ou de l'événement :
 Mycélium 
+![zodie_gal.png](zodie_gal.png)
 
 ## Lieu de mise en exposition :
 Collège Montmorency
