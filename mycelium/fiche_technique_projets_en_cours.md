@@ -1,7 +1,7 @@
 # Les projets mycélium en cours
 
 ## Edria
-
+![edria.png](edria.png)
 ### Projet réalisé par :
 Elwin Durand 
 Loic Delorme
@@ -28,7 +28,7 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lumières qui apparaissaient. En intéragissant avec l'oeuvre, je me sentais part intégral du projet. Les décorations de plantes ajoutent un effet immersant à l'oeuvre.  Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est ce que lorsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer. Le fait que l'oeuvre nécessite la présence du visiteur est pour moi un élément très intéressant car en tant que visiteur on se sent important car notre présence est vitale au fonctionnement du projet. 
 
 ## Nexum 
-
+![nexum.png](nexum.png)
 ### Projet réalisé par :
 Sébastien Reilly
 Sabrina Laforest
@@ -51,7 +51,7 @@ Dans le studio, il se trouvait des fils de lumières qui étaient posés sur des
 Pour intéragir avec l'oeuvre il faut suivre la lignée de lumière en marchant à côté ainsi donc le jeu de lumière commencera. La lumière suit la présence du visiteur et les lumières changent de couleur au fur et à mesure. Des sons différents aussi jouent au cours du chemin pour accompagner le visiteur. En intéragissant avec l'oeuvre, je me suis sentait marcher dans un autre monde, un monde lumineux qui me parle. Les projets intéractifs de se sorte m'aide vraiment à être immersé dans l'oeuvre.
 
 ## Luma Sol
-
+![luma_sol.png](luma_sol.png)
 ### Projet réalisé par :
 Éloise Gagné
 Skayla Stimphil
@@ -75,7 +75,7 @@ Dans le studio, il se trouvait un vélo stationnaire, une échelle plaçée en h
 Honnêtement, je me suis pas vraiment senti connecté au projet. C,est en parti parce que je n'ai pas eu la chance de l'essayer. Au studio, le projet n'était pas complet et ne fonctionnait pas totalement. Sûrement que mon avis changera si je l'essaie à l'exposition finale. 
 
 ## Zodie-Gal
-
+![zodie_gal.png](zodie_gal.png)
 ### Projet réalisé par :
 Abdanor Yara 
 
@@ -96,7 +96,7 @@ Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site
 J'ai vraiment apprécié l'expérience en partipant à ce projet. Il m'a fallu plusieurs essais pour terminer tous les niveaux disponibles mais cela valait la peine. Les animations qui jouent à chaque passage de niveaux étaient vraiment intéressantes. Au secondaire, je joauait souvent à des jeux d'égnimes qui comportaient des éléments similaires au projet j'ai vraiment apprécier cet oeuvre bien qu'il n'y a pas de lien avec le thème mycélium.
 
 ## Echomarine
-
+![echomarine.png](echomarine.png)
 ### Projet réalisé par :
 Florence Lapierre
 Natacha Abdallah
