@@ -53,7 +53,8 @@ Des bancs sont placés au milieu d'une salle ainsi qu'une structure placée pour
  ## Ce qui m'a pas plus :
 Ce que j'ai moins apprécié c'est que des fois il fallait que je me retourne car une partie de la présentation se passait sur le mur arrière de moi et ça m'irritait un peu lors ce que j'étais assis et j'ai du replacer ma chaise.
 ## Lien avec les autres oeuvres :
-Je trouve vraiment qu'il y a un lien avec l'oeuvre à la BIAN où une présentation de personnages en 3D jouait dans une grande salle. 
+Je trouve vraiment qu'il y a un lien avec l'oeuvre à la BIAN : Lu Yang: Delusional World.
+![bian_perso_3d.jpg](medias/bian_perso_3d.jpg)
 ## Ce que j'ai aimé le plus de toutes les oeuvres que j'ai apprécié :
 J'ai vraiment apprécié les aspects informatives et éducatifs de ces oeuvres car j'ai vraiment appris beaucoup de choses au courant de ce cours. 
 ## Source et références :
