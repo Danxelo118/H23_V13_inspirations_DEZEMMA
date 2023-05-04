@@ -32,6 +32,9 @@ L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs o�
 
 ## Composantes techniques :
 - Des fils et câbles
+- Contenant protecteur
+![contenant_protecteur.jpg](medias/contenant_protecteur.jpg)
+![contenant_protecteur_proche.jpg](medias/contenant_protecteur_proche.jpg)
 - Des poteaux de métals
 - Des lumières DEL
 ![poteau_lumiere_del.jpg](medias/poteau_lumiere_del.jpg)
