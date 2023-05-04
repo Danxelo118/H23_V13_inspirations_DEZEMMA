@@ -1,5 +1,6 @@
 #  Plan oral
 
+## Introduction
 ### Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience) :
 Présentation de l'oeuvre :
 - Objectif
@@ -9,6 +10,7 @@ Présentation de l'oeuvre :
 - Expérience vécue
 - Critique
 
+
 ### Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition :
 - Titre 
 - Nom exposition
@@ -16,7 +18,9 @@ Présentation de l'oeuvre :
 - Année de réalisation
 - Lieu de mise en exposition
 - Date de visite
-- 
+
+
+## Développement :
 ### Présentation détaillée de l'oeuvre ou du dispositif multimédia :
 - Description de l'oeuvre
 - Mise en espace
@@ -32,6 +36,6 @@ Présentation de l'oeuvre :
 ### Liens avec autres oeuvres :
 - Lien avec oeuvre...
 
-### Conclusion :
+## Conclusion :
 - Appréciation de toutes les oeuvres
 - Remerciements
