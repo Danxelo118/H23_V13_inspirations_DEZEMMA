@@ -20,7 +20,7 @@ Elwin Durand Loic Delorme Dominic Roberts Gabriel Leblanc Meryem Berbiche Jean-C
 ## Année de réalisation :
 2022-2023
 ## Description de l'oeuvre :
-Il se trouve des poteaux de lumières tout au coin de la place. Un poteau central est placé au centre au se trouve des capteurs de présences pour permettre aux visiteurs d'intéragir avec l'oeuvre et enfin de pleinement profiter d'une expérience maximale.
+Il se trouve des poteaux de lumières tout au coin de la place. Un poteau central est placé au centre au se trouve des capteurs de présences pour permettre aux visiteurs d'intéragir avec l'oeuvre et enfin de pleinement profiter d'une expérience maximale. orsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer.
 
 ## Type d'installation :
 Interactive
