@@ -3,6 +3,8 @@
 ## Nom de l'exposition ou de l'événement :
 Humains
 
+![ecran_grand_affichage.jpg](medias/ecran_grand_affichage.jpg)
+
 ## Lieu de mise en exposition :
 Salle des Sciences
 
