@@ -21,6 +21,9 @@ Elwin Durand Loic Delorme Dominic Roberts Gabriel Leblanc Meryem Berbiche Jean-C
 ## Description de l'oeuvre :
 
 
+## Type d'installation :
+Interactive
+
 ## Mise en espace :
 L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs où des gens peuvent s'asseoir.
 
