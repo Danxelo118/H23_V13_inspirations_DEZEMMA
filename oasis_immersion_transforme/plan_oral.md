@@ -1,6 +1,6 @@
 #  Plan oral
 
-## Introduction
+## Introduction :
 ### Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience) :
 Présentation de l'oeuvre :
 - Objectif
