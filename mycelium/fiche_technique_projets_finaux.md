@@ -48,7 +48,7 @@ L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs o�
  ## Ce qui m'a plus :
  Le jeu de lumière est vraiment un élément que j'ai vraiment bien apprécié. Je rtrouve que sans les lumières, leprojet ne fonctionnerait pas. Les lumières et la réactivité avec la détection de présence sont les éléments vitaux de cette présentation artistique. Ça m'a vraiment inspiré pour mes projets futures. 
  ## Ce qui m'a pas plus :
- J'aurais soughaité que les effets sonores soient plus forts pour rendre mon expérience encore plus immersive. 
+ J'aurais souhaité que les effets sonores soient plus forts pour rendre l'expérience encore plus immersive. 
  ## Ordre de préférences des projets (après) :
 1- Edria
 2- Echomarine
