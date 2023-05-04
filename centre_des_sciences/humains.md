@@ -21,10 +21,10 @@ Pas facile de saisir la balle au bond
 Centre des Sciences
 
 ## Fonction du dispositif :
-Ce dispositif a pour but d'éduquer les visiteurs sur l'évolution du temps de réactions chez l'humain
+Ce dispositif a pour but d'éduquer les visiteurs sur l'évolution du temps de réactions chez l'humain.
 
 ## Description de l'oeuvre :
-Le visiteur est supposé se placer devant l'oeuvre sur une place précisée au sol et suivre les instructions sur l'écran. Il doit essayer de placer sa main pour attraper la balle virtuelle qui est affichée à l'écran et ainsi le visiteur peut remarquer que les réflexes diminuent aau fur à mesure que l'âge avance.
+Le visiteur est supposé se placer devant l'oeuvre sur une place précisée au sol et suivre les instructions sur l'écran. Il doit essayer de bouger et placer sa main pour attraper la balle virtuelle qui est affichée à l'écran et ainsi le visiteur peut remarquer que les réflexes diminuent au fur à mesure que l'âge avance.
 
 ## Type d'installation :
 Interactive
@@ -49,7 +49,7 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
  J'ai vraiment apprécié l'aspect éducatif de l'oeuvre.  
  
  ## Ce qui m'a pas plus :
-C'est vraiment juste un petit détail mais j'aurais voulu que l'écran soit plus grand pour que je puisse apercevoir mieux les informations lettrées et visuelles présentées. Mais sinon c'est le seul élément que j'ai peu apprécié.
+C'est vraiment juste un petit détail mais j'aurais voulu que l'écran soit plus grand pour que je puisse apercevoir mieux les informations visuelles présentées. Mais sinon c'est le seul élément que j'ai peu apprécié.
 
 ## Sources et références 
 https://www.centredessciencesdemontreal.com/exposition-permanente/humain 
