@@ -25,7 +25,7 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 
 
 ### Expérience et justifications :
-En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lumières qui apparaissaient. En intéragissant avec l'oeuvre, je me sentais part intégral du projet. Les décorations de plantes ajoutent un effet immersant à l'oeuvre.  Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est ce que lorsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer. Le fait que l'oeuvre nécessite la présence du visiteur est pour moi un élément très intéressant car en tant que visiteur on se sent important car notre présence est vitale au fonctionnement du projet. 
+En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lumières qui apparaissaient. En intéragissant avec l'oeuvre, je me sentais part intégral du projet. Les décorations de plantes ajoutent un effet immersant à l'oeuvre.  Lorsque quelqu'un se plaçait devant l'un des capteurs, une lumière d'une certaine couleur s'allumait ainsi qu'une sonorité différente jouait. Mais l'élément le plus intéressant est que lorsque quatre personnes se plaçent en même temps à chaque coins du capteurs, toutes les lumières s'allument en même temps et un son en particulier va jouer. Le fait que l'oeuvre nécessite la présence du visiteur est pour moi un élément très intéressant car en tant que visiteur on se sent important car notre présence est vitale au fonctionnement du projet. 
 
 ## Nexum 
 ![nexum.png](medias/nexum.png)
