@@ -16,6 +16,8 @@ Galerie Portail
 ## Noms des créateurs de l'oeuvre :
 - On the morning you wake : Mike Brett, Steve Jamison, Arnaud Colinard et Pierre Zandrowicz 
 
+## Objectif :
+- L'objectif est de provoquer une réflexion sur notre compréhension de la menace nucléaire, tout en démontrant l'effet que cette expérience a eu sur toute une communauté.
 ![image_nuke_web.jpg](medias/image_nuke_web.jpg)
 Photo prise du site web
 - Vestige : Aaron Bradbury
