@@ -11,6 +11,7 @@ Mercredi 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif :
 Pas facile de saisir la balle au bond
+![titre_oeuvre.jpg](medias/titre_oeuvre.jpg)
 
 ## Année de réalisation :
 2022/2023
@@ -30,6 +31,8 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
 
 ## Composantes techniques :
 - Un écran 
+![ecran_affichage.jpg](medias/ecran_affichage.jpg)
+
 - Une caméra
 - Des décorations
 - Des capteurs de mouvements 
