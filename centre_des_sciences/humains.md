@@ -33,12 +33,16 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
 - Un écran 
 ![ecran_affichage.jpg](medias/ecran_affichage.jpg)
 
-- Une caméra
-- Des décorations
-- Des capteurs de mouvements 
+- Une caméra capteurs de mouvements
+
+![camera_capteur.jpg](medias/camera_capteur.jpg)
+
+- Des affichages
+![informations_affichage.jpg](medias/informations_affichage.jpg)
 
  ## Expérience vécue :
  J'ai vraiment vécue une bonne expérience avec cette oeuvre. J'ai vraiment appris beaucoup de cette oeuvre. On remarque très bien que les réflexes diminuent au fur et à mesure. L'oeuvre réagit bien avec tes mouvements et je sentais les animations sur l'écran très fluide et suivait bien mon mouvement. 
+ ![ecran_indications.jpg](medias/ecran_indications.jpg)
  ## Ce qui m'a plus :
  J'ai vraiment apprécié l'aspect éducatif de l'oeuvre.  
  
