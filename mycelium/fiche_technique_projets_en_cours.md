@@ -56,7 +56,7 @@ Photo prise du site web
 - Objets intéractifs
 
 ### Expérience et justifications :
-Pour intéragir avec l'oeuvre il faut suivre la lignée de lumière en marchant à côté ainsi donc le jeu de lumière commencera. La lumière suit la présence du visiteur et les lumières changent de couleur au fur et à mesure. Des sons différents aussi jouent au cours du chemin pour accompagner le visiteur. En intéragissant avec l'oeuvre, je me suis sentait marcher dans un autre monde, un monde lumineux qui me parle. Les projets intéractifs de se sorte m'aide vraiment à être immersé dans l'oeuvre.
+Pour intéragir avec l'oeuvre il faut suivre la lignée de lumière en marchant à côté ainsi donc le jeu de lumière commencera. La lumière suit la présence du visiteur et les lumières changent de couleur au fur et à mesure. Des sons différents aussi jouent au cours du chemin pour accompagner le visiteur. En intéragissant avec l'oeuvre, je me sentait marcher dans un autre monde, un monde lumineux qui me parle. Les projets intéractifs de ce sorte m'aide vraiment à être immersé dans l'oeuvre.
 
 ## Luma Sol
 ![luma_sol.png](medias/luma_sol.png)
@@ -84,7 +84,7 @@ Photo prise du site web
 
 
 ### Expérience et justifications :
-Honnêtement, je me suis pas vraiment senti connecté au projet. C,est en parti parce que je n'ai pas eu la chance de l'essayer. Au studio, le projet n'était pas complet et ne fonctionnait pas totalement. Sûrement que mon avis changera si je l'essaie à l'exposition finale. 
+Honnêtement, je me suis pas vraiment senti connecté au projet. C'est en parti parce que je n'ai pas eu la chance de l'essayer. Au studio, le projet n'était pas complet et ne fonctionnait pas totalement. Sûrement que mon avis changera si je l'essaie à l'exposition finale. 
 
 ## Zodie-Gal
 ![zodie_gal.png](medias/zodie_gal.png)
@@ -97,7 +97,7 @@ Abdanor Yara
 Il n'y a pas vraiment de lien avec le thème mycélium.
 
 ### L'installation en cours dans les studios
-Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site web est présent sur l'ordi et des animations 2D jouent. La cr.atrice du projet t'invite à participer au jeux d'égnimes en cliquant sur à des endroits en particulier sur des images pour passer à différents niveaux.
+Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site web est présent sur l'ordinateur et des animations 2d jouent. La créatrice du projet t'invite à participer au jeux d'égnimes en cliquant sur des endroits en particulier sur des images pour passer à différents niveaux.
 
 ### Schéma :
 ![shema_zodie_gal.png](medias/shema_zodie_gal.png)
@@ -109,7 +109,7 @@ Photo prise du site web
 - Installation multimédia
 
 ### Expérience et justifications :
-J'ai vraiment apprécié l'expérience en partipant à ce projet. Il m'a fallu plusieurs essais pour terminer tous les niveaux disponibles mais cela valait la peine. Les animations qui jouent à chaque passage de niveaux étaient vraiment intéressantes. Au secondaire, je joauait souvent à des jeux d'égnimes qui comportaient des éléments similaires au projet j'ai vraiment apprécier cet oeuvre bien qu'il n'y a pas de lien avec le thème mycélium.
+J'ai vraiment apprécié l'expérience en partipant à ce projet. Il m'a fallu plusieurs essais pour terminer tous les niveaux disponibles mais cela valait la peine. Les animations qui jouent à chaque passage de niveaux étaient vraiment intéressantes. Au secondaire, je jouait souvent à des jeux d'égnimes qui comportaient des éléments similaires au projet. Bref, j'ai vraiment apprécier cet oeuvre bien qu'il n'y a pas de lien avec le thème mycélium.
 
 ## Echomarine
 ![echomarine.png](medias/echomarine.png)
@@ -124,7 +124,7 @@ Maria Laura Coronel
 ### Lien avec le thème du projet mycélium :
 
 ### L'installation en cours dans les studios
-Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleurs sont plaçés aux coins du studio. Ils sont connectés par des ordinateurs. Un podium avec une tablette se situait au centre du studio et permettait aux visiteurs de participer à l'expérience. 
+Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleurs sont plaçés aux coins du studio. Ils sont connectés par des ordinateurs. Un podium ainsi qu'une tablette se situaient au centre du studio et permettaient aux visiteurs de participer à l'expérience. 
 ### Schéma :
 ![shema_echomarine.png](medias/shema_echomarine.png)
 
@@ -135,7 +135,7 @@ Photo prise du site web
 - Traitement vidéo
 
 ### Expérience et justifications :
-Mon expérience avec cet oeuvre a vraiment été positive. Je pense que c'est l'oeuvre la plus immersive que j'ai expérimenté dans les cinq projets mycélium. En cliquant sur les différentes images sur la tablette, des informations sur l'animal marin que j'ai cliqué apparaissaient. J'ai vraiment apprécié ce côté éducatif que ce projet propose. Mais ce qui m'a le plus marqué et immersé dans cet oeuvre sont les effets sonores difféerentes qui jouaient à chaque fois que j'appuyais sur une image. Le son d'ambiance en fond plus particulièrement m'a marqué. Bref c'est une exposition très intérative pour les visiteurs.
+Mon expérience avec cet oeuvre a vraiment été positive. Je pense que c'est l'oeuvre la plus interactive que j'ai expérimenté dans les cinq projets mycélium. En cliquant sur les différentes images sur la tablette, des informations sur l'animal marin que j'ai cliqué apparaissaient. J'ai vraiment apprécié ce côté éducatif que ce projet propose. Mais ce qui m'a le plus marqué et immersé dans cet oeuvre sont les effets sonores difféerents qui jouaient à chaque fois que j'appuyais sur une image. Le son d'ambiance de fond plus particulièrement m'a marqué. Bref c'est une exposition très intéractive pour les visiteurs.
 
 ### Technique ou composante choisie :
 L'utilisation du logiciel Madmapper. C'est un logiciel permettant de créer de projeter des vidéos sur des objets ou bâtiments qui résumer à du vidéo mapping. Je sens que c'est un logiciel qui me sera très utile à l'avenir. Donc j'ai hâte de l'apprendre dans les prochains cours du programme. 
