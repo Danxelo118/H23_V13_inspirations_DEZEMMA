@@ -17,7 +17,7 @@ Les plantes (végétation) sont reliées aux lumières et intéragissent ensembl
 Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une au milieu. Des décorations de plantes se trouvaient dessus. Le poteau du milieu est l'élément principal puisqu'il permet de capter les mouvement en utilisant les capteurs TOF liés aux lumières et aux ordinateurs.
 
 ### Schéma :
-
+![shema_edria.png](medias/shema_edria.png)
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
 - Installation multimédia
@@ -41,7 +41,7 @@ Maxime Des Lauriers
 Dans le studio, il se trouvait des fils de lumières qui étaient posés sur des chaises et étaient connectés par des ordinateurs pour créer les animations de lumière. Des haut-parleurs plaçés autour étaient également présents pour ajouter des effets sonores avec la partie visuelle de l'oeuvre. 
 
 ### Schéma :
-
+![shema_nexum.png](medias/shema_nexum.png)
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
 - Installation multimédia
@@ -64,7 +64,7 @@ Pénélope Morrisson
 Dans le studio, il se trouvait un vélo stationnaire, une échelle plaçée en hauteur ainsi qu'une batterie reliée par une poulie et est connectée par des lumières. La poulie se met en activation en pédalant sur le vélo qui crée de l'énergie pour faire allumer les lumières. Lorsque le vélo est au repos, une musique se met à jouer ainsi qu'une animation de lumière.
 
 ### Schéma :
-
+![shema_luma_sol.png](medias/shema_luma_sol.png)
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
 - Installation multimédia
@@ -86,7 +86,7 @@ Il n'y a pas vraiment de lien avec le thème mycélium.
 Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site web est présent sur l'ordi et des animations 2D jouent. La cr.atrice du projet t'invite à participer au jeux d'égnimes en cliquant sur à des endroits en particulier sur des images pour passer à différents niveaux.
 
 ### Schéma :
-
+![shema_zodie_gal.png](medias/shema_zodie_gal.png)
 ### 3 cours indispensables à la création du projet :
 - Programmation web
 - Animation 2D
@@ -108,7 +108,7 @@ Maria Laura Coronel
 ### L'installation en cours dans les studios
 Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleurs sont plaçés aux coins du studio. Ils sont connectés par des ordinateurs. Un podium avec une tablette se situait au centre du studio et permettait aux visiteurs de participer à l'expérience. 
 ### Schéma :
-
+![shema_echomarine.png](medias/shema_echomarine.png)
 ### 3 cours indispensables à la création du projet :
 - Conception sonore
 - Animation 2D
