@@ -2,7 +2,8 @@
 
 ## Nom de l'exposition ou de l'événement :
 Mycélium 
-![zodie_gal.png](zodie_gal.png)
+
+![edria.png](medias/edria.png)
 
 ## Lieu de mise en exposition :
 Collège Montmorency
@@ -19,7 +20,7 @@ Elwin Durand Loic Delorme Dominic Roberts Gabriel Leblanc Meryem Berbiche Jean-C
 ## Année de réalisation :
 2022-2023
 ## Description de l'oeuvre :
-
+Il se trouve des poteaux de lumières tout au coin de la place. Un poteau central est placé au centre au se trouve des capteurs de présences pour permettre aux visiteurs d'intéragir avec l'oeuvre et enfin de pleinement profiter d'une expérience maximale.
 
 ## Type d'installation :
 Interactive
