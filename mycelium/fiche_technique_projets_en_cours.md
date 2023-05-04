@@ -2,6 +2,7 @@
 
 ## Edria
 ![edria.png](medias/edria.png)
+
 Photo prise du site web
 ### Projet réalisé par :
 Elwin Durand 
@@ -19,6 +20,7 @@ Dans le studio, il se trouvaient quatre poteaux plaçés en coins ainsi qu'une a
 
 ### Schéma :
 ![shema_edria.png](medias/shema_edria.png)
+
 Photo prise du site web
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
@@ -31,6 +33,7 @@ En faisant l'expérience du projet, je me suis senti ébloui par les jeux de lum
 
 ## Nexum 
 ![nexum.png](medias/nexum.png)
+
 Photo prise du site web
 ### Projet réalisé par :
 Sébastien Reilly
@@ -45,6 +48,7 @@ Dans le studio, il se trouvait des fils de lumières qui étaient posés sur des
 
 ### Schéma :
 ![shema_nexum.png](medias/shema_nexum.png)
+
 Photo prise du site web
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
@@ -56,6 +60,7 @@ Pour intéragir avec l'oeuvre il faut suivre la lignée de lumière en marchant 
 
 ## Luma Sol
 ![luma_sol.png](medias/luma_sol.png)
+
 Photo prise du site web
 ### Projet réalisé par :
 Éloise Gagné
@@ -70,6 +75,7 @@ Dans le studio, il se trouvait un vélo stationnaire, une échelle plaçée en h
 
 ### Schéma :
 ![shema_luma_sol.png](medias/shema_luma_sol.png)
+
 Photo prise du site web
 ### 3 cours indispensables à la création du projet :
 - Conception d'une expérience multimédia
@@ -82,6 +88,7 @@ Honnêtement, je me suis pas vraiment senti connecté au projet. C,est en parti 
 
 ## Zodie-Gal
 ![zodie_gal.png](medias/zodie_gal.png)
+
 Photo prise du site web
 ### Projet réalisé par :
 Abdanor Yara 
@@ -94,6 +101,7 @@ Un ordinateur se situe dans une salle plus réservée au coin du studio. Un site
 
 ### Schéma :
 ![shema_zodie_gal.png](medias/shema_zodie_gal.png)
+
 Photo prise du site web
 ### 3 cours indispensables à la création du projet :
 - Programmation web
@@ -105,6 +113,7 @@ J'ai vraiment apprécié l'expérience en partipant à ce projet. Il m'a fallu p
 
 ## Echomarine
 ![echomarine.png](medias/echomarine.png)
+
 Photo prise du site web
 ### Projet réalisé par :
 Florence Lapierre
@@ -118,6 +127,7 @@ Maria Laura Coronel
 Le projet se situe au petit studio. Des projecteurs d'images et des haut-parleurs sont plaçés aux coins du studio. Ils sont connectés par des ordinateurs. Un podium avec une tablette se situait au centre du studio et permettait aux visiteurs de participer à l'expérience. 
 ### Schéma :
 ![shema_echomarine.png](medias/shema_echomarine.png)
+
 Photo prise du site web
 ### 3 cours indispensables à la création du projet :
 - Conception sonore
