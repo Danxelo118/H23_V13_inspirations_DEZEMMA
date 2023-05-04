@@ -14,12 +14,17 @@ Pas facile de saisir la balle au bond
 
 ## Année de réalisation :
 2022/2023
-## Description de l'oeuvre :
-Le visiteur est supposé se placer devant l'oeuvre sur une place précisée au sol et suivre les instructions sur l'écran. Il doit essayer de placer sa main pour attraper la balle virtuelle qui est affichée à l'écran et ainsi le visiteur peut remarquer que les réflexes diminuent aau fur à mesure que l'âge avance.
+## Nom de l'artiste ou de la firme :
+Centre des Sciences
 
 ## Fonction du dispositif :
 Ce dispositif a pour but d'éduquer les visiteurs sur l'évolution du temps de réactions chez l'humain
 
+## Description de l'oeuvre :
+Le visiteur est supposé se placer devant l'oeuvre sur une place précisée au sol et suivre les instructions sur l'écran. Il doit essayer de placer sa main pour attraper la balle virtuelle qui est affichée à l'écran et ainsi le visiteur peut remarquer que les réflexes diminuent aau fur à mesure que l'âge avance.
+
+## Type d'installation :
+Interactive
 ## Mise en espace :
 Le dispositif se situe dans un couloir qui mène aux autres expositions. 
 
