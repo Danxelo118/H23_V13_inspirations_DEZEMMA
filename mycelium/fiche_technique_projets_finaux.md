@@ -5,6 +5,8 @@ Mycélium
 
 ![edria.png](medias/edria.png)
 
+Photo prise du site web 
+
 ## Lieu de mise en exposition :
 Collège Montmorency
 
@@ -32,12 +34,19 @@ L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs o�
 - Des fils et câbles
 - Des poteaux de métals
 - Des lumières DEL
+![poteau_lumiere_del.jpg](medias/poteau_lumiere_del.jpg)
 - Des projecteurs de lumières
+![projecteur_lumiere_2.jpg](medias/projecteur_lumiere_2.jpg)
 - Des haut-parleurs 
+![haut_parleur.jpg](medias/haut_parleur.jpg)
 - Des caméras de surveillance
+![camera_vu_studio.jpg](medias/camera_vu_studio.jpg)
 - Des décorations
+![decoration_final.jpg](medias/decoration_final.jpg)
 - Des capteurs de mouvements 
+![capteur_mouvement.jpg](medias/capteur_mouvement.jpg)
 - Un ordinateur
+![camera_vu_studio.jpg](medias/camera_vu_studio.jpg)
 - Des logiciel (Madmapping)
 
 ## Éléments pour la mise en place :
@@ -45,10 +54,14 @@ L'oeuvre est installé au mileu du parc de Montmorency au se trouve des bancs o�
  
  ## Expérience vécue :
  C'était encore plus grandiose en vrai. Je suis allé la nuit et j'ai vraiment apprécié le décor comment il s'illumait la nuit. C'est vraiment  une oeuvre qui attire l'attention. Le projet marchait complèment donc je voyais toute l'ampleur du projet. C'était encore plus immersive qu'avant. Je me sentais vraiment parti d'un autre monde lumineux. Bref, j'ai vraiment vécu une expérience magistrale en vivant cette oeuvre.
+ ![exposition_final_loin.jpg](medias/exposition_final_loin.jpg)
+ ![exposition_final_4.jpg](medias/exposition_final_4.jpg)
+ 
  ## Ce qui m'a plus :
  Le jeu de lumière est vraiment un élément que j'ai vraiment bien apprécié. Je rtrouve que sans les lumières, leprojet ne fonctionnerait pas. Les lumières et la réactivité avec la détection de présence sont les éléments vitaux de cette présentation artistique. Ça m'a vraiment inspiré pour mes projets futures. 
  ## Ce qui m'a pas plus :
  J'aurais souhaité que les effets sonores soient plus forts pour rendre l'expérience encore plus immersive. 
+ 
  ## Ordre de préférences des projets (après) :
 1- Edria
 2- Echomarine
