@@ -44,6 +44,6 @@ Ce que j'ai moins apprécié c'est que des fois il fallait que je me retourne ca
 ## Lien avec les autres oeuvres :
 Je trouve vraiment qu'il y a un lien avec l'oeuvre à la BIAN où une présentation de personnages en 3D jouait dans une grande salle. 
 ## Ce que j'ai aimé le plus de toutes les oeuvres que j'ai apprécié :
-J'ai vraiment apprécié les aspects informatives et éducatifs de ces oeuvres car j'ai vraiment appris beaucoup de choses au cours de ce cours. 
+J'ai vraiment apprécié les aspects informatives et éducatifs de ces oeuvres car j'ai vraiment appris beaucoup de choses au courant de ce cours. 
 ## Source et références :
 https://oasis.im/en/transforme/
