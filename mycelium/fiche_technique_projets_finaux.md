@@ -55,7 +55,7 @@ L'oeuvre est installé au milieu du parc de Montmorency où se trouve des bancs 
 ![camera_vu_studio.jpg](medias/camera_vu_studio.jpg)
 - Des logiciel (Madmapping)
 
-## Éléments pour la mise en place :
+## Éléments pour la mise en exposition :
 - Des bancs
  
  ## Expérience vécue :
