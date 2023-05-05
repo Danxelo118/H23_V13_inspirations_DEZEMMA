@@ -17,6 +17,8 @@ Galerie Portail
 - On the morning you wake : Mike Brett, Steve Jamison, Arnaud Colinard et Pierre Zandrowicz 
 - Vestige : Aaron Bradbury
 
+## Type d'installation :
+Temporaire
 
 ## Année de réalisation :
 2022/2023
