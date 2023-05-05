@@ -16,6 +16,9 @@ Vendredi 17 mars 2023
 ## Titre de l'oeuvre ou du dispositif :
 Edria
 
+## Type d'exposition :
+Temporaire
+
 ## Noms des créateurs de l'oeuvre :
 Elwin Durand Loic Delorme Dominic Roberts Gabriel Leblanc Meryem Berbiche Jean-Christophe Zephir
 
