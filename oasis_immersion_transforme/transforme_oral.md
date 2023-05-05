@@ -20,6 +20,7 @@ Galerie Portail
 - L'objectif est de provoquer une réflexion sur notre compréhension de la menace nucléaire, tout en démontrant l'effet que cette expérience a eu sur toute une communauté.
 ![image_nuke_web.jpg](medias/image_nuke_web.jpg)
 Photo prise du site web
+
 - Vestige : Aaron Bradbury
 ![image_vestige_web.jpg](medias/image_vestige_web.jpg)
 Photo prise du site web
