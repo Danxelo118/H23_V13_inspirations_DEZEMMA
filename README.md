@@ -6,4 +6,4 @@ Ce dossier contient des informations sur divers expositions et oeuvres présent�
 - Les expositions des 3ème année incluant au moins des fichiers médias, un fichier README et une fiche technique contenant mes propos.
 - Les conférences sur Studio antimodular et Halo Création incluant au moins des fichiers médias, un fichier README et une fiche technique contenant mes propos.
 - L'exposition: humains au Centre des Sciences incluant au moins des fichiers médias, un fichier README et une fiche technique contenant mes propos.
-- L'exposition: transformé portail incluant au moins des fichiers médias, un fichier README et une fiche technique contenant mes propos.
+- L'exposition: transformé portail à Oasis Immersion incluant au moins des fichiers médias, un fichier README et une fiche technique contenant mes propos.
