@@ -44,11 +44,14 @@ Des bancs sont placés au milieu d'une salle ainsi qu'une structure placée pour
 ![nuke_debut_1.jpg](medias/nuke_debut_1.jpg)
 
 ## Composantes techniques :
-- Des caméras de surveillance 
 - Des projecteurs de lumières
 ![projecteur_lumiere.jpg](medias/projecteur_lumiere.jpg)
 - Des haut-parleurs 
 ![haut_parleur.jpg](medias/haut_parleur.jpg)
+
+ ## Éléments de mise en exposition :
+ - Des caméras de surveillance 
+ - Des bancs
  
  ## Expérience vécue :
  En assistant à cet oeuvre je ne m'attendais pas à être autant bouleversé. Ce documentaire présente en détails ce qui arriverait en cas d'une exposition nucléaire sur le corps humain. Les propos des citoyens attendant leur mort certaine sont vraiment poignants. Ça nous retourne l'estomac et nous fait réfléchir sur la chance qu'on a de ne pas se retrouver dans des situations extrêmes de ce genre. On sent que la recherche a été minutieuse et on ressent également la passion des créateurs de cet oeuvre dans ce projet. 
