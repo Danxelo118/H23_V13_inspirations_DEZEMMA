@@ -16,6 +16,11 @@ Galerie Portail
 ## Noms des créateurs de l'oeuvre :
 - On the morning you wake : Mike Brett, Steve Jamison, Arnaud Colinard et Pierre Zandrowicz 
 - Vestige : Aaron Bradbury
+
+
+## Année de réalisation :
+2022/2023
+
 ## Objectif :
 - L'objectif est de provoquer une réflexion sur notre compréhension de la menace nucléaire, tout en démontrant l'effet que cette expérience a eu sur toute une communauté.
 ![image_nuke_web.jpg](medias/image_nuke_web.jpg)
@@ -24,9 +29,6 @@ Photo prise du site web
 - Vestige : Aaron Bradbury
 ![image_vestige_web.jpg](medias/image_vestige_web.jpg)
 Photo prise du site web
-
-## Année de réalisation :
-2022/2023
 
 ## Description de l'oeuvre :
 On the morning you wake : Cet oeuvre est une sorte de documentaire immersif qui parle d'une attaque d'un missile nucléaire qui attaquerait Hawai dans et comment les citoyens agiraient à l'annonce de cette nouvelle. Leurs réactions de peur et d'angoisse sont relatées dans ce documentaire. Les créateurs utilisent des faits réels et expériences personnelles pour immerser le visiteur dans cet oeuvre. On présente des personnages et éléments en 3D pour nous permettre de visualiser les explications de l'oeuvre.
