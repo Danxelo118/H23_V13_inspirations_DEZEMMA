@@ -49,7 +49,7 @@ Le dispositif se situe dans un couloir qui mène aux autres expositions.
  ## Éléments de mise en exposition :
  - Un écran (cité au-dessus)
  - Une caméra (cité au-dessus)
- - Affichage contenant de l'informations (cité au-dessus)
+ - De l'affichage contenant de l'informations (cité au-dessus)
  ## Expérience vécue :
  J'ai vraiment vécue une bonne expérience avec cette oeuvre. J'ai vraiment appris beaucoup de cette oeuvre. On remarque très bien que les réflexes diminuent au fur et à mesure. L'oeuvre réagit bien avec tes mouvements et je sentais les animations sur l'écran très fluide et suivait bien mon mouvement. 
  ![ecran_indications.jpg](medias/ecran_indications.jpg)
