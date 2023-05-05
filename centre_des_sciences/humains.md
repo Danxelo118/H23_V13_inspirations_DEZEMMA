@@ -15,6 +15,9 @@ Mercredi 12 avril 2023
 Pas facile de saisir la balle au bond
 ![titre_oeuvre.jpg](medias/titre_oeuvre.jpg)
 
+## Type d'exposition :
+Permanent
+
 ## Année de réalisation :
 2022/2023
 ## Nom de l'artiste ou de la firme :
